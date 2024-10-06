@@ -1,0 +1,9 @@
+dropbox
+pandas
+spacy
+pythonmemcached
+sentence-transformers
+faiss-cpu
+langchain
+openai
+python-dotenv
